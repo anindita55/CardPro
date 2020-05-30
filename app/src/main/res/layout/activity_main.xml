@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<ListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+    android:id="@+id/list_view"
+    >
+
+</ListView>-->
+
+<androidx.recyclerview.widget.RecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+    android:id="@+id/recycledlist"
+    android:background="#B1F7B3"
+
+    >
+
+
+</androidx.recyclerview.widget.RecyclerView>
